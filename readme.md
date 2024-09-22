@@ -2,8 +2,8 @@
 
 # OpenÉcole
 
-### Do you want this readme in french? Go [here](https://github.com/Komas19-new/OpenEcole/readme.fr.md).
-### Voulez vous ce readme en français? Allez [ici](https://github.com/Komas19-new/OpenEcole/readme.fr.md).
+### Do you want this readme in french? Go [here](https://github.com/Komas19-new/OpenEcole/blob/main/readme.fr.md).
+### Voulez vous ce readme en français? Allez [ici](https://github.com/Komas19-new/OpenEcole/blob/main/readme.fr.md).
 
 ## Description
 OpenÉcole is an open-source application designed to manage school-related information, including notes, assignments, and user accounts. It aims to provide a user-friendly interface for both students and teachers.
