@@ -31,4 +31,4 @@ Nous acceptons de la contribution en anglais et en français.
 #### Merci de contribuer à ce dépôt pour réaliser un guide d'installation.
 
 ## Licence
-Ce projet est sous licence GPL 3.0 license [ici](https://github.com/Komas19-new/OpenEcole/LICENSE)
+Ce projet est sous licence GPL 3.0 license [ici](https://github.com/Komas19-new/OpenEcole/blob/main/LICENSE)

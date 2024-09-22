@@ -32,4 +32,4 @@ We accept contributing in both french and english.
 #### Please contribute to this repository in order to make an installation guide.
 
 ## License
-This project is under the GPL 3.0 license [here](https://github.com/Komas19-new/OpenEcole/LICENSE)
+This project is under the GPL 3.0 license [here](https://github.com/Komas19-new/OpenEcole/blob/main/LICENSE)
